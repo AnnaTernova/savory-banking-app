@@ -28,34 +28,26 @@
 ---
 
 ## 🚀 Getting Started
-
-To run Savory locally:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/AnnaTernova/savory-banking-app.git
-   cd savory-banking-app
-   ```
-   2. No server required; it's a frontend-only project.
+ No server required; it's a frontend-only project.
 
 ## 🔐 Demo Login
 
-Use the following credentials to test the app:
-Account 1:
-Username: at
-PIN: 1111
+Use the following credentials to test the app: <br>
+Account 1 <br>
+Username: at <br>
+PIN: 1111 <br>
 
-Account 2:
-Username: js
-PIN: 2222
+Account 2 <br>
+Username: js <br>
+PIN: 2222 <br>
 
-Account 3:
-Username: stw
-PIN: 3333
+Account 3 <br>
+Username: stw  <br>
+PIN: 3333 <br>
 
-Account 4:
-Username: sc
-PIN: 4444
+Account 4 <br>
+Username: sc <br>
+PIN: 4444 <br>
 
 ## 🎨 Light & Dark Mode
 
